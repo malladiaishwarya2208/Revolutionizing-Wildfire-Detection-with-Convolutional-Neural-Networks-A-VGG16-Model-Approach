@@ -1,4 +1,4 @@
-# Revolutionizing-Wildfire-Detection-with-Convolutional-Neural-Networks-A-VGG16-Model-Approach
+# Revolutionizing-Wildfire-Detection-with-Convolutional-Neural-Networks-A-VGG16-Model-Approach-https://peer.asee.org/54974
 Introduction
 Wildfires are among the most destructive natural disasters, causing significant ecological,
 economic, and human losses. In 2024 alone, over 8,024 wildfire incidents were reported
