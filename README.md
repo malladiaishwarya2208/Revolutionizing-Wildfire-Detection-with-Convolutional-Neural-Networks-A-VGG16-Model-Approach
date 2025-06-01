@@ -1,0 +1,1 @@
+# Revolutionizing-Wildfire-Detection-with-Convolutional-Neural-Networks-A-VGG16-Model-Approach
